@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+⭐️ Welcome to DXMD Private, our cryptocurrency gatway designed to shield specific Patient-Provider transactions and bring patient privacy and HIPAA-compliance to Solana Transactions.
+
+👩🏻‍⚕️ Check out DXMD Private live on Devnet at https://Private.DXMD.co
+
+📽 Check out DXMD Private YouTube Demo at https://www.youtube.com/watch?v=QGzrdZ03oRc
+
+# Getting Started with DXMD Private
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
